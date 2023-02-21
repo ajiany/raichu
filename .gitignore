@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.idea
+.docker-compose.yml.swp
+
+# ignore docker-xxl-job data and log directory
+data
+logs
+root
